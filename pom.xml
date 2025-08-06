@@ -1,0 +1,11 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.fintech</groupId>
+    <artifactId>fintech-platform</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>userwallet-service</module>
+        <module>transaction-service</module>
+    </modules>
+</project>

@@ -1,0 +1,13 @@
+package com.example.userwallet_service;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class UserwalletServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(UserwalletServiceApplication.class, args);
+	}
+
+}
